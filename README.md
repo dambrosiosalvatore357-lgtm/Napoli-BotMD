@@ -3,6 +3,7 @@
 Un bot WhatsApp multipiattaforma basato su **Baileys**.  
 Permette di monitorare i messaggi e generare classifiche **utenti** e **gruppi** con grafiche personalizzate 🎨.
 
+questo bot arriva domani 
 ---
 
 ## 🚀 Funzionalità
