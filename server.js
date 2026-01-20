@@ -3,7 +3,7 @@ import express from "express";
 import { fork } from "child_process";
 
 const app = express();
-const numero = "+39 329 757 0233"; // 🔹 cambia con il tuo numero
+const numero = "+39 333 641 3960"; // 🔹 cambia con il tuo numero
 
 // Testo mostrato in browser
 app.get("/", (req, res) => {
